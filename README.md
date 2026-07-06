@@ -13,7 +13,7 @@ streamlit run app.py
 ```
 
 You'll need:
-- An xAI API key (console.x.ai)
+- An xAI API key (console.groq.ai)
 - A Gmail app password (myaccount.google.com/apppasswords — requires 2FA)
 
 First run creates `outreach.db` (SQLite) in the project folder automatically.
